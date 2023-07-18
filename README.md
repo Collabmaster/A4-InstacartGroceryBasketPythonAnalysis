@@ -17,7 +17,7 @@ We were provided with open-source data sets that contain sales information from 
 The project folder has 5 subfolders
 - **Project Management**: Contains the Project Brief
 - **Data**: Stored both Original(dataframes before cleaning) and Prepared Data(data frames after cleaning and prepared for analysis). 
-- **Scripts**: Contains all the Python coding involved for the entire analysis process
+- **Scripts**: Contains all the Python codes written for the entire analysis
 - **Analysis**: Contains the Visualizations from which insights were developed
 - **Sent to client**: Stored the final report that was sent to the client
 
