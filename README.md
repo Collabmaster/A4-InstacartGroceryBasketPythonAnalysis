@@ -13,7 +13,7 @@ We were provided with open-source data sets that contain sales information from 
 - departments
 - Customers
 
-Full details of data are available [here](www.instacart.com/datasets/grocery-shopping-2017)
+**Source**: Full details of data are available [here](www.instacart.com/datasets/grocery-shopping-2017)
 
 ## Project folder 
 The project folder has 5 subfolders
@@ -27,3 +27,16 @@ The project folder has 5 subfolders
 - Language: Python
 - Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
 - Software: Jupyter Notebooks and Excel
+
+## Skills Demonstrated
+- **Data Cleaning**: removed duplicates, found and resolved missing values, and addressed mixed or incorrect data types.
+  
+- **Dataframes Merging**: selected and prepared dataframes for merging, merged, and exported the final merged dataframe in suitable formats
+  
+- **Exploratory analysis**: performed descriptive statistics (max/min, quartiles, mean, standard deviation) for each variable as well as using histograms, scatterplots, and bar and line charts to explore data distribution
+  
+- **Derived new variables**: grouped data by user, order, and department to allow exploration and analysis at each level; used aggregated data to create flags about user ordering habits (such as ‘new customer’, ‘loyal customer’, etc.). Used demographic info; confirmed the new data created via crosstabs and value counts.
+
+- **Visualizing data**: used Matplotlib and Seaborn to create histograms, line charts, pie charts, and bar charts (vertical/horizontal, stacked, and 100% stacked).
+
+- **Reporting results**: prepared an Excel document that reported the analysis processes, and the answers to business questions from Instacart's sales/marketing department and recommendations
