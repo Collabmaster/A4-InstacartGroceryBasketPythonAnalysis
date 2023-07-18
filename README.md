@@ -10,8 +10,10 @@ We were provided with open-source data sets that contain sales information from 
 - Orders
 - Orders_products_prior
 - Products
+- departments
 - Customers
-- Folders
+
+Full details of data are available [here](www.instacart.com/datasets/grocery-shopping-2017)
 
 ## Project folder 
 The project folder has 5 subfolders
