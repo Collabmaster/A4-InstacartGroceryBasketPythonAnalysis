@@ -13,7 +13,7 @@ We were provided with open-source data sets that contain sales information from 
 - departments
 - Customers
 
-**Source**: Full details of data are available [here](www.instacart.com/datasets/grocery-shopping-2017)
+**Source**: Full details of data are available [here]([www.instacart.com/datasets/grocery-shopping-2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis))
 
 ## Project folder 
 The project folder has 5 subfolders
